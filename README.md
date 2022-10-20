@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Mesh**
 
-- 👯 I’m looking to collaborate on ** Any ML projects **
+- 👯 I’m looking to collaborate on **Any ML projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
