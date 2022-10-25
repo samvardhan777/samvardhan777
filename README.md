@@ -11,14 +11,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samvardhan777&show_icons=true&locale=en&layout=compact" alt="samvardhan777" /></p>
 
-![Profile views](https://gpvc.arturio.dev/samvardhan777)
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samvardhan777&show_icons=true&locale=en" alt="samvardhan777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samvardhan777&" alt="samvardhan777" /></p>
 
 ![Snake animation](https://github.com/samvardhan777/samvardhan777/blob/output/github-contribution-grid-snake.svg)
+
+![Profile views](https://gpvc.arturio.dev/samvardhan777)
 
 <!---
 samvardhan777/samvardhan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
