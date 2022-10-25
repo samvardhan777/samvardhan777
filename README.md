@@ -11,6 +11,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samvardhan777&show_icons=true&locale=en&layout=compact" alt="samvardhan777" /></p>
 
+![Profile views](https://gpvc.arturio.dev/samvardhan777)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samvardhan777&show_icons=true&locale=en" alt="samvardhan777" /></p>
 
