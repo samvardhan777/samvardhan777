@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate data Engineer from India and I'm Starting my Learning Journey in the Tech world</h3>
+<h3 align="center">A passionate data Engineer </h3>
 
-- 🌱 I’m currently learning **Data Mesh**
-
-- 👯 I’m looking to collaborate on **Any ML projects**
+-
 
 
 <h3 align="left">Languages and Tools:</h3>
